@@ -1,0 +1,23 @@
+[ARTICLE_DATA]
+TITLE: مثال عنوان المقال
+SLUG: example-article-slug
+CATEGORY: توريد الخرسانة
+TAGS: خرسانة جاهزة, خرسانة الرياض
+FOCUS_KEYWORD: الخرسانة الجاهزة بالرياض
+SEO_TITLE: مثال عنوان SEO | صروح الشامي
+META_DESCRIPTION: وصف ميتا مختصر ومحسن لمحركات البحث.
+EXCERPT: ملخص قصير للمقال.
+PUBLISH_DATE: 2026-08-15 09:00
+CONTENT_FORMAT: html
+IMAGE_FILENAME: ready-mix-concrete-riyadh.jpg
+IMAGE_TITLE: توريد خرسانة جاهزة بالرياض
+IMAGE_ALT: توريد خرسانة جاهزة إلى مشروع في الرياض
+IMAGE_CAPTION: توريد الخرسانة الجاهزة لأحد المشاريع في الرياض
+IMAGE_DESCRIPTION: صورة توضح أعمال توريد الخرسانة الجاهزة في الرياض.
+[/ARTICLE_DATA]
+
+[CONTENT]
+<p>مقدمة المقال.</p>
+<h2>عنوان فرعي</h2>
+<p>محتوى المقال.</p>
+[/CONTENT]
